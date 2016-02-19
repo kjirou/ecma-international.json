@@ -1,0 +1,53 @@
+{
+  "standards": {
+    "262": {
+      "identifier": "ECMA-262",
+      "title": "ECMAScript 2015 Language Specification",
+      "edtion": "6th edition (June 2015)",
+      "description": "This Standard defines the ECMAScript 2015 general purpose programming language.",
+      "files": [
+        {
+          "url": "http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf",
+          "file_name": "ECMA-262.pdf",
+          "size": "12501480",
+          "content": "Acrobat (r) PDF file"
+        },
+        {
+          "url": "http://www.ecma-international.org/ecma-262/6.0/index.html",
+          "file_name": "ECMA-262 edition 6",
+          "size": null,
+          "content": "Browsable HTML"
+        }
+      ]
+    }
+  },
+  "techinical_committees": {
+    "39": {
+      "identifier": "TC39",
+      "title": "ECMAScript",
+      "scope": "Standardization of the general purpose, cross platform, vendor-neutral programming language ECMAScript. This includes the language syntax, semantics, and libraries and complementary technologies that support the language.",
+      "programme_of_work": [
+        "To maintain and update the standard for the ECMAScript programming language.",
+        "To identify, develop and maintain standards for libraries that extend the capabilities of ECMAScript.",
+        "To develop test suites that may be used to verify correct implementation of these standards.",
+        "To contribute selected standards to ISO/IEC JTC 1.",
+        "To evaluate and consider proposals for complementary or additional technologies."
+      ],
+      "members": [
+        {
+          "role": "Chairman",
+          "name": "Mr. J. Neumann"
+        },
+        {
+          "role": "Vice-Chairman",
+          "name": "Vacant"
+        },
+        {
+          "role": "Secretary",
+          "name": "Dr. Istvan Sebestyen"
+        }
+      ],
+      "task_groups": []
+    }
+  }
+}
